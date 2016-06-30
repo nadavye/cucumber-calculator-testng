@@ -2,7 +2,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     
-
+    <groupId>io.demo</groupId>
+    <version>1.0.0-snapshoot</version>
     <artifactId>java-calculator-testng</artifactId>
     <packaging>jar</packaging>
     <name>Examples: Java Calculator TestNG</name>
